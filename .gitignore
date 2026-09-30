@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Captured / temporary audio recordings
+live_recording.wav
+
+# Large datasets (Do not push raw audio files to GitHub)
+data/
